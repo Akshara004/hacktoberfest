@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Akshara Tiwari](https://github.com/Akshara004)
+
+- Place: Kanpur, UP, India
+- Bio:  Third Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [Akshara004] (https://github.com/Akshara004)
